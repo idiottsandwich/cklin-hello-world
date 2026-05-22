@@ -4,4 +4,4 @@ https://fprime.jpl.nasa.gov/latest/tutorials-hello-world/docs/hello-world/#2-cre
 source /fprime-venv/bin/activate.csh
 
 2026-May-22
-stopped prior to step 3. Integrating into a Deployment
+completed hello world tutorial and verified fprime gds / hicomponent work! approx 1.5 hours 
