@@ -1,0 +1,7 @@
+# cklin progress
+https://fprime.jpl.nasa.gov/latest/tutorials-hello-world/docs/hello-world/#2-creating-an-f-component
+
+source /fprime-venv/bin/activate.csh
+
+2026-May-22
+stopped prior to step 3. Integrating into a Deployment
